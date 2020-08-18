@@ -1,0 +1,21 @@
+{
+    "name": "davidmadrigal/php_patterns",
+    "description": "Testing project for PHP Patterns",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David M. Miller",
+            "email": "daxdoxsi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "require-dev": {
+        "monolog/monolog": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
