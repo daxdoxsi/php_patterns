@@ -1,2 +1,2 @@
-# php_patterns
+# PHP Patterns
 Experimenting with all the Patterns Available implemented en PHP
